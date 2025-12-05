@@ -1,4 +1,5 @@
 {
+  "homepage": "https://harshinibasana.github.io/GraphQL-Apollo.git/",
   "name": "class_assignment",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
