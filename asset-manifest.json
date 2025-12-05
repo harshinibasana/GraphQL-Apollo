@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GraphQL-Apollo.git/static/css/main.e6c13ad2.css",
+    "main.js": "/GraphQL-Apollo.git/static/js/main.f67a18c4.js",
+    "static/js/453.c47611ea.chunk.js": "/GraphQL-Apollo.git/static/js/453.c47611ea.chunk.js",
+    "index.html": "/GraphQL-Apollo.git/index.html",
+    "main.e6c13ad2.css.map": "/GraphQL-Apollo.git/static/css/main.e6c13ad2.css.map",
+    "main.f67a18c4.js.map": "/GraphQL-Apollo.git/static/js/main.f67a18c4.js.map",
+    "453.c47611ea.chunk.js.map": "/GraphQL-Apollo.git/static/js/453.c47611ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f67a18c4.js"
+  ]
+}
